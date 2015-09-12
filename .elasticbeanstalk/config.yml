@@ -1,0 +1,10 @@
+branch-defaults:
+  default:
+    environment: sepnden-dev
+global:
+  application_name: spenden
+  default_ec2_keyname: null
+  default_platform: Python 2.7
+  default_region: ap-southeast-1
+  profile: eb-cli
+  sc: null
